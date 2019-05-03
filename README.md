@@ -1,2 +1,5 @@
-# Using natural language processing to build a spam filter for text messages
-This repo contains the Jupyter notebook used to build the associated blog post: [Using natural language processing to build a spam filter for text messages](http://inmachineswetrust.com/posts/sms-spam-filter/) 
+# Using natural language processing to build a spam filter for text messages</br>
+◦Used UCI SMS Spam Collection Data Set.</br>
+◦Prepared data and fitted linear SVM.</br>
+◦Evaluated the model using k-fold Cross-Validation.</br>
+◦Achieved accuracy of 92.85%
